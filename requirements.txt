@@ -1,5 +1,12 @@
-streamlit
-tensorflow
+# Core libraries
+streamlit>=1.39.0
+tensorflow>=2.17.0
 numpy
-pickle5
 requests
+zipfile36
+urllib3
+
+# Optional utilities
+matplotlib
+seaborn
+pandas
